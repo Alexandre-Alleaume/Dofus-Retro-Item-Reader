@@ -7,7 +7,7 @@ VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-printed").save_p
 def load_model():
     # Load the pre-trained processor and model for printed text
     processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-printed")
-    VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-printed")
+    model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-printed")
 
     # Configure model for text generation
     model.config.decoder_start_token_id = processor.tokenizer.cls_token_id
