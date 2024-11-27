@@ -8,7 +8,7 @@ def load_model():
    
 
     # Load the fine-tuned model and processor from the previous training output directory
-    model_dir = "/kaggle/working/output"  # Update this if the path is different
+    model_dir = "/kaggle/working"  # Update this if the path is different
     model = VisionEncoderDecoderModel.from_pretrained(model_dir)
     processor = TrOCRProcessor.from_pretrained(model_dir)
 
