@@ -5,9 +5,12 @@ TrOCRProcessor.from_pretrained("microsoft/trocr-base-printed").save_pretrained("
 VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-printed").save_pretrained("/kaggle/working/trocr-model")
 
 def load_model():
-    # Load the pre-trained processor and model for printed text
-    processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-printed")
-    model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-printed")
+   
+
+    # Load the fine-tuned model and processor from the previous training output directory
+    model_dir = "/kaggle/working/output"  # Update this if the path is different
+    model = VisionEncoderDecoderModel.from_pretrained(model_dir)
+    processor = TrOCRProcessor.from_pretrained(model_dir)
 
     # Configure model for text generation
     model.config.decoder_start_token_id = processor.tokenizer.cls_token_id

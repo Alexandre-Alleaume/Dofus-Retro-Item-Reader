@@ -12,10 +12,10 @@ def main():
     # Set paths and hyperparameters
     dataset_path = "/kaggle/input/dofus-item-images-json/dataset.json"  # JSON data file
     image_dir = "/kaggle/input/dofus-item-images"  # Image folder
-    output_dir = "/kaggle/working/output"
-    batch_size = 8
+    output_dir = "/kaggle/working/output_finetuned"
+    batch_size = 10
     num_epochs = 10
-    learning_rate = 3e-5
+    learning_rate = 1e-5
 
     # Load dataset and model
     processor, model = load_model()
