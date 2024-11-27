@@ -10,7 +10,7 @@ with open(file_path, 'r') as file:
 # Modify the imageUrl fields
 for item in json_data['data']:
     if 'imageUrl' in item:
-        item['imageUrl'] = item['imageUrl'].replace("'", "")
+        item['imageUrl'] = item['imageUrl'].replace("\u00ef", "i")
 
 # Save the updated JSON data back to the file
 with open(file_path, 'w') as file:
@@ -31,7 +31,7 @@ for filename in os.listdir(images_folder):
         continue
     
     # Remove single quotes from the filename
-    new_filename = filename.replace("'", "")
+    new_filename = filename.replace("ï", "i")
     new_file_path = os.path.join(images_folder, new_filename)
     
     # Rename the file

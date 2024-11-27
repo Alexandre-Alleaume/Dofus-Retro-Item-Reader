@@ -235,7 +235,7 @@
       }
     },
     {
-      "imageUrl": "90_1195_Ep\u00e9e_du_Puissant_Chevalier.png",
+      "imageUrl": "90_1195_Epee_du_Puissant_Chevalier.png",
       "itemData": {
         "name": "Ep\u00e9e du Puissant Chevalier",
         "generic_item_id": 1195,
@@ -313,7 +313,7 @@
       }
     },
     {
-      "imageUrl": "914_1030_B\u00e2ton_du_Kanigrou.png",
+      "imageUrl": "914_1030_Baton_du_Kanigrou.png",
       "itemData": {
         "name": "B\u00e2ton du Kanigrou",
         "generic_item_id": 1030,
@@ -326,7 +326,7 @@
       }
     },
     {
-      "imageUrl": "923_1006_B\u00e2ton_dOubli.png",
+      "imageUrl": "923_1006_Baton_dOubli.png",
       "itemData": {
         "name": "B\u00e2ton d'Oubli",
         "generic_item_id": 1006,
@@ -387,7 +387,7 @@
       }
     },
     {
-      "imageUrl": "375_305_La_Cha\u00eene_Nhanor_Kibrill.png",
+      "imageUrl": "375_305_La_Chaine_Nhanor_Kibrill.png",
       "itemData": {
         "name": "La Cha\u00eene Nhanor Kibrill",
         "generic_item_id": 305,
@@ -431,7 +431,7 @@
       }
     },
     {
-      "imageUrl": "81_1221_Ep\u00e9e_Royale_du_Bouftou.png",
+      "imageUrl": "81_1221_Epee_Royale_du_Bouftou.png",
       "itemData": {
         "name": "Ep\u00e9e Royale du Bouftou",
         "generic_item_id": 1221,
@@ -448,7 +448,7 @@
       }
     },
     {
-      "imageUrl": "83_1217_D\u00e9coupeuse_de_Kralamoure.png",
+      "imageUrl": "83_1217_Decoupeuse_de_Kralamoure.png",
       "itemData": {
         "name": "D\u00e9coupeuse de Kralamoure",
         "generic_item_id": 1217,
@@ -489,7 +489,7 @@
       }
     },
     {
-      "imageUrl": "684_673_Bottes_Dor\u00e9es_dHogmeiser.png",
+      "imageUrl": "684_673_Bottes_Dorees_dHogmeiser.png",
       "itemData": {
         "name": "Bottes Dor\u00e9es d'Hogmeiser",
         "generic_item_id": 673,
@@ -603,7 +603,7 @@
       }
     },
     {
-      "imageUrl": "104_1468_Hache_Harn\u00e9e.png",
+      "imageUrl": "104_1468_Hache_Harnee.png",
       "itemData": {
         "name": "Hache Harn\u00e9e",
         "generic_item_id": 1468,
@@ -698,7 +698,7 @@
       }
     },
     {
-      "imageUrl": "461_419_Talisman_du_Ch\u00eane_Mou.png",
+      "imageUrl": "461_419_Talisman_du_Chene_Mou.png",
       "itemData": {
         "name": "Talisman du Ch\u00eane Mou",
         "generic_item_id": 419,
@@ -800,7 +800,7 @@
       }
     },
     {
-      "imageUrl": "494_561_Bracelet_Ventr\u00e9.png",
+      "imageUrl": "494_561_Bracelet_Ventre.png",
       "itemData": {
         "name": "Bracelet Ventr\u00e9",
         "generic_item_id": 561,
@@ -815,7 +815,7 @@
       }
     },
     {
-      "imageUrl": "77_1227_Pic_\u00e0_Glace.png",
+      "imageUrl": "77_1227_Pic_a_Glace.png",
       "itemData": {
         "name": "Pic \u00e0 Glace",
         "generic_item_id": 1227,
@@ -1114,7 +1114,7 @@
       }
     },
     {
-      "imageUrl": "100_1470_Hache_\u00e0_Lamelles.png",
+      "imageUrl": "100_1470_Hache_a_Lamelles.png",
       "itemData": {
         "name": "Hache \u00e0 Lamelles",
         "generic_item_id": 1470,
@@ -1155,7 +1155,7 @@
       }
     },
     {
-      "imageUrl": "499_558_Anneau_du_Ch\u00eane_Mou.png",
+      "imageUrl": "499_558_Anneau_du_Chene_Mou.png",
       "itemData": {
         "name": "Anneau du Ch\u00eane Mou",
         "generic_item_id": 558,
@@ -1205,7 +1205,7 @@
       }
     },
     {
-      "imageUrl": "50_1245_Ep\u00e9e_Lopon\u00e8ze.png",
+      "imageUrl": "50_1245_Epee_Loponeze.png",
       "itemData": {
         "name": "Ep\u00e9e Lopon\u00e8ze",
         "generic_item_id": 1245,
@@ -1274,7 +1274,7 @@
       }
     },
     {
-      "imageUrl": "867_901_Arc_\u00e0_Lamelles.png",
+      "imageUrl": "867_901_Arc_a_Lamelles.png",
       "itemData": {
         "name": "Arc \u00e0 Lamelles",
         "generic_item_id": 901,
@@ -1322,7 +1322,7 @@
       }
     },
     {
-      "imageUrl": "209_153_Couvre-chef_corn\u00e9_de_QuTan.png",
+      "imageUrl": "209_153_Couvre-chef_corne_de_QuTan.png",
       "itemData": {
         "name": "Couvre-chef corn\u00e9 de Qu'Tan",
         "generic_item_id": 153,
@@ -1397,7 +1397,7 @@
       }
     },
     {
-      "imageUrl": "237_137_Casque_du_Bitouf_A\u00e9rien.png",
+      "imageUrl": "237_137_Casque_du_Bitouf_Aerien.png",
       "itemData": {
         "name": "Casque du Bitouf A\u00e9rien",
         "generic_item_id": 137,
@@ -1472,7 +1472,7 @@
       }
     },
     {
-      "imageUrl": "99_1470_Hache_\u00e0_Lamelles.png",
+      "imageUrl": "99_1470_Hache_a_Lamelles.png",
       "itemData": {
         "name": "Hache \u00e0 Lamelles",
         "generic_item_id": 1470,
@@ -1504,7 +1504,7 @@
       }
     },
     {
-      "imageUrl": "882_1066_Racine_de_F\u00e9corce.png",
+      "imageUrl": "882_1066_Racine_de_Fecorce.png",
       "itemData": {
         "name": "Racine de F\u00e9corce",
         "generic_item_id": 1066,
@@ -1530,7 +1530,7 @@
       }
     },
     {
-      "imageUrl": "248_125_Coiffe_C\u00e9r\u00e9moniale_du_Seigneur_des_Rats.png",
+      "imageUrl": "248_125_Coiffe_Ceremoniale_du_Seigneur_des_Rats.png",
       "itemData": {
         "name": "Coiffe C\u00e9r\u00e9moniale du Seigneur des Rats",
         "generic_item_id": 125,
@@ -1545,7 +1545,7 @@
       }
     },
     {
-      "imageUrl": "683_673_Bottes_Dor\u00e9es_dHogmeiser.png",
+      "imageUrl": "683_673_Bottes_Dorees_dHogmeiser.png",
       "itemData": {
         "name": "Bottes Dor\u00e9es d'Hogmeiser",
         "generic_item_id": 673,
@@ -1618,7 +1618,7 @@
       }
     },
     {
-      "imageUrl": "238_137_Casque_du_Bitouf_A\u00e9rien.png",
+      "imageUrl": "238_137_Casque_du_Bitouf_Aerien.png",
       "itemData": {
         "name": "Casque du Bitouf A\u00e9rien",
         "generic_item_id": 137,
@@ -1648,7 +1648,7 @@
       }
     },
     {
-      "imageUrl": "685_673_Bottes_Dor\u00e9es_dHogmeiser.png",
+      "imageUrl": "685_673_Bottes_Dorees_dHogmeiser.png",
       "itemData": {
         "name": "Bottes Dor\u00e9es d'Hogmeiser",
         "generic_item_id": 673,
@@ -1721,7 +1721,7 @@
       }
     },
     {
-      "imageUrl": "884_1063_B\u00e2ton_du_Dragoeuf.png",
+      "imageUrl": "884_1063_Baton_du_Dragoeuf.png",
       "itemData": {
         "name": "B\u00e2ton du Dragoeuf",
         "generic_item_id": 1063,
@@ -1750,7 +1750,7 @@
       }
     },
     {
-      "imageUrl": "310_74_Dragocoiffe_Dor\u00e9e.png",
+      "imageUrl": "310_74_Dragocoiffe_Doree.png",
       "itemData": {
         "name": "Dragocoiffe Dor\u00e9e",
         "generic_item_id": 74,
@@ -1799,7 +1799,7 @@
       }
     },
     {
-      "imageUrl": "868_901_Arc_\u00e0_Lamelles.png",
+      "imageUrl": "868_901_Arc_a_Lamelles.png",
       "itemData": {
         "name": "Arc \u00e0 Lamelles",
         "generic_item_id": 901,
@@ -2110,7 +2110,7 @@
       }
     },
     {
-      "imageUrl": "407_360_Amulette_Scarabosse_Dor\u00e9.png",
+      "imageUrl": "407_360_Amulette_Scarabosse_Dore.png",
       "itemData": {
         "name": "Amulette Scarabosse Dor\u00e9",
         "generic_item_id": 360,
@@ -2201,7 +2201,7 @@
       }
     },
     {
-      "imageUrl": "263_117_Kanist\u00e8re.png",
+      "imageUrl": "263_117_Kanistere.png",
       "itemData": {
         "name": "Kanist\u00e8re",
         "generic_item_id": 117,
@@ -2238,7 +2238,7 @@
       }
     },
     {
-      "imageUrl": "309_75_Scaracoiffe_Dor\u00e9e.png",
+      "imageUrl": "309_75_Scaracoiffe_Doree.png",
       "itemData": {
         "name": "Scaracoiffe Dor\u00e9e",
         "generic_item_id": 75,
@@ -2251,7 +2251,7 @@
       }
     },
     {
-      "imageUrl": "426_384_Le_Flan_des_\u00c9toiles.png",
+      "imageUrl": "426_384_Le_Flan_des_Etoiles.png",
       "itemData": {
         "name": "Le Flan des \u00c9toiles",
         "generic_item_id": 384,
@@ -2293,7 +2293,7 @@
       }
     },
     {
-      "imageUrl": "406_359_La_Feuille_dEt\u00e9.png",
+      "imageUrl": "406_359_La_Feuille_dEte.png",
       "itemData": {
         "name": "La Feuille d'Et\u00e9",
         "generic_item_id": 359,
@@ -2368,7 +2368,7 @@
       }
     },
     {
-      "imageUrl": "395_345_La_Broche_C\u00e9leste.png",
+      "imageUrl": "395_345_La_Broche_Celeste.png",
       "itemData": {
         "name": "La Broche C\u00e9leste",
         "generic_item_id": 345,
@@ -2381,7 +2381,7 @@
       }
     },
     {
-      "imageUrl": "654_644_Scarabottes_Dor\u00e9es.png",
+      "imageUrl": "654_644_Scarabottes_Dorees.png",
       "itemData": {
         "name": "Scarabottes Dor\u00e9es",
         "generic_item_id": 644,
@@ -2476,7 +2476,7 @@
       }
     },
     {
-      "imageUrl": "0_1160_Couteaux_\u00e0_Champignons.png",
+      "imageUrl": "0_1160_Couteaux_a_Champignons.png",
       "itemData": {
         "name": "Couteaux \u00e0 Champignons",
         "generic_item_id": 1160,
@@ -2493,7 +2493,7 @@
       }
     },
     {
-      "imageUrl": "404_351_Dragolyre_Remani\u00e9e.png",
+      "imageUrl": "404_351_Dragolyre_Remaniee.png",
       "itemData": {
         "name": "Dragolyre Remani\u00e9e",
         "generic_item_id": 351,
@@ -2565,7 +2565,7 @@
       }
     },
     {
-      "imageUrl": "653_643_Bottes_de_C\u00e9leri-Th\u00e9.png",
+      "imageUrl": "653_643_Bottes_de_Celeri-The.png",
       "itemData": {
         "name": "Bottes de C\u00e9leri-Th\u00e9",
         "generic_item_id": 643,
@@ -2588,7 +2588,7 @@
       }
     },
     {
-      "imageUrl": "152_245_Cape_du_D\u00e9sir_OBoul.png",
+      "imageUrl": "152_245_Cape_du_Desir_OBoul.png",
       "itemData": {
         "name": "Cape du D\u00e9sir O'Boul",
         "generic_item_id": 245,
@@ -2753,7 +2753,7 @@
       }
     },
     {
-      "imageUrl": "182_212_Cape_du_Coq_H\u00fb.png",
+      "imageUrl": "182_212_Cape_du_Coq_Hu.png",
       "itemData": {
         "name": "Cape du Coq H\u00fb",
         "generic_item_id": 212,
@@ -2928,7 +2928,7 @@
       }
     },
     {
-      "imageUrl": "844_862_Arc_\u00e0_Poulie_Sci\u00e9e.png",
+      "imageUrl": "844_862_Arc_a_Poulie_Sciee.png",
       "itemData": {
         "name": "Arc \u00e0 Poulie Sci\u00e9e",
         "generic_item_id": 862,
@@ -2983,7 +2983,7 @@
       }
     },
     {
-      "imageUrl": "589_461_Anneau_Champ\u00eatre.png",
+      "imageUrl": "589_461_Anneau_Champetre.png",
       "itemData": {
         "name": "Anneau Champ\u00eatre",
         "generic_item_id": 461,
@@ -2992,7 +2992,7 @@
       }
     },
     {
-      "imageUrl": "764_759_Cht\u00e9vu.png",
+      "imageUrl": "764_759_Chtevu.png",
       "itemData": {
         "name": "Cht\u00e9vu",
         "generic_item_id": 759,
@@ -3040,7 +3040,7 @@
       }
     },
     {
-      "imageUrl": "929_989_Petit_B\u00e2ton_Feuillu.png",
+      "imageUrl": "929_989_Petit_Baton_Feuillu.png",
       "itemData": {
         "name": "Petit B\u00e2ton Feuillu",
         "generic_item_id": 989,
@@ -3139,7 +3139,7 @@
       }
     },
     {
-      "imageUrl": "919_1020_B\u00e2ton_TontAta.png",
+      "imageUrl": "919_1020_Baton_TontAta.png",
       "itemData": {
         "name": "B\u00e2ton Tont'Ata",
         "generic_item_id": 1020,
@@ -3150,7 +3150,7 @@
       }
     },
     {
-      "imageUrl": "576_478_F\u00e9caliseur_du_Guerrier.png",
+      "imageUrl": "576_478_Fecaliseur_du_Guerrier.png",
       "itemData": {
         "name": "F\u00e9caliseur du Guerrier",
         "generic_item_id": 478,
@@ -3256,7 +3256,7 @@
       }
     },
     {
-      "imageUrl": "592_459_Puissant_Anneau_dAgilit\u00e9.png",
+      "imageUrl": "592_459_Puissant_Anneau_dAgilite.png",
       "itemData": {
         "name": "Puissant Anneau d'Agilit\u00e9",
         "generic_item_id": 459,
@@ -3281,7 +3281,7 @@
       }
     },
     {
-      "imageUrl": "89_1198_La_crini\u00e8re_de_Badoul.png",
+      "imageUrl": "89_1198_La_criniere_de_Badoul.png",
       "itemData": {
         "name": "La crini\u00e8re de Badoul",
         "generic_item_id": 1198,
@@ -3388,7 +3388,7 @@
       }
     },
     {
-      "imageUrl": "391_339_Amulette_du_P\u00eacheur_de_Somoon.png",
+      "imageUrl": "391_339_Amulette_du_Pecheur_de_Somoon.png",
       "itemData": {
         "name": "Amulette du P\u00eacheur de Somoon",
         "generic_item_id": 339,
@@ -3421,7 +3421,7 @@
       }
     },
     {
-      "imageUrl": "924_1005_B\u00e2ton_Carnivore.png",
+      "imageUrl": "924_1005_Baton_Carnivore.png",
       "itemData": {
         "name": "B\u00e2ton Carnivore",
         "generic_item_id": 1005,
@@ -3430,7 +3430,7 @@
       }
     },
     {
-      "imageUrl": "559_500_Anneau_du_Scarabosse_Dor\u00e9.png",
+      "imageUrl": "559_500_Anneau_du_Scarabosse_Dore.png",
       "itemData": {
         "name": "Anneau du Scarabosse Dor\u00e9",
         "generic_item_id": 500,
@@ -3457,7 +3457,7 @@
       }
     },
     {
-      "imageUrl": "598_448_Anneau_dAgilit\u00e9.png",
+      "imageUrl": "598_448_Anneau_dAgilite.png",
       "itemData": {
         "name": "Anneau d'Agilit\u00e9",
         "generic_item_id": 448,
@@ -3497,7 +3497,7 @@
       }
     },
     {
-      "imageUrl": "930_986_Puissant_B\u00e2ton_de_Boisaille.png",
+      "imageUrl": "930_986_Puissant_Baton_de_Boisaille.png",
       "itemData": {
         "name": "Puissant B\u00e2ton de Boisaille",
         "generic_item_id": 986,
@@ -3547,7 +3547,7 @@
       }
     },
     {
-      "imageUrl": "388_331_M\u00e9daille_Lahilama.png",
+      "imageUrl": "388_331_Medaille_Lahilama.png",
       "itemData": {
         "name": "M\u00e9daille Lahilama",
         "generic_item_id": 331,
@@ -3582,7 +3582,7 @@
       }
     },
     {
-      "imageUrl": "204_165_Cape_Bleut\u00e9e.png",
+      "imageUrl": "204_165_Cape_Bleutee.png",
       "itemData": {
         "name": "Cape Bleut\u00e9e",
         "generic_item_id": 165,
@@ -3635,7 +3635,7 @@
       }
     },
     {
-      "imageUrl": "931_984_B\u00e2ton_de_Boisaille.png",
+      "imageUrl": "931_984_Baton_de_Boisaille.png",
       "itemData": {
         "name": "B\u00e2ton de Boisaille",
         "generic_item_id": 984,
@@ -3677,7 +3677,7 @@
       }
     },
     {
-      "imageUrl": "189_201_Cape_Hil\u00e8re.png",
+      "imageUrl": "189_201_Cape_Hilere.png",
       "itemData": {
         "name": "Cape Hil\u00e8re",
         "generic_item_id": 201,
@@ -3719,7 +3719,7 @@
       }
     },
     {
-      "imageUrl": "355_19_Coiffe_Champ\u00eatre.png",
+      "imageUrl": "355_19_Coiffe_Champetre.png",
       "itemData": {
         "name": "Coiffe Champ\u00eatre",
         "generic_item_id": 19,
@@ -3818,7 +3818,7 @@
       }
     },
     {
-      "imageUrl": "385_327_La_Broche_H\u00e8te.png",
+      "imageUrl": "385_327_La_Broche_Hete.png",
       "itemData": {
         "name": "La Broche H\u00e8te",
         "generic_item_id": 327,
@@ -3842,7 +3842,7 @@
       }
     },
     {
-      "imageUrl": "918_1024_B\u00e2ton_Akwadala.png",
+      "imageUrl": "918_1024_Baton_Akwadala.png",
       "itemData": {
         "name": "B\u00e2ton Akwadala",
         "generic_item_id": 1024,
@@ -3854,7 +3854,7 @@
       }
     },
     {
-      "imageUrl": "95_1161_Petite_Ep\u00e9e_de_Boisaille.png",
+      "imageUrl": "95_1161_Petite_Epee_de_Boisaille.png",
       "itemData": {
         "name": "Petite Ep\u00e9e de Boisaille",
         "generic_item_id": 1161,
@@ -3997,7 +3997,7 @@
       }
     },
     {
-      "imageUrl": "374_304_La_Destin\u00e9e_Dor\u00e9e.png",
+      "imageUrl": "374_304_La_Destinee_Doree.png",
       "itemData": {
         "name": "La Destin\u00e9e Dor\u00e9e",
         "generic_item_id": 304,
@@ -4006,7 +4006,7 @@
       }
     },
     {
-      "imageUrl": "165_231_Cape_H\u00f4te.png",
+      "imageUrl": "165_231_Cape_Hote.png",
       "itemData": {
         "name": "Cape H\u00f4te",
         "generic_item_id": 231,
@@ -4054,7 +4054,7 @@
       }
     },
     {
-      "imageUrl": "93_1165_Ep\u00e9e_du_Chevalier_de_Glace.png",
+      "imageUrl": "93_1165_Epee_du_Chevalier_de_Glace.png",
       "itemData": {
         "name": "Ep\u00e9e du Chevalier de Glace",
         "generic_item_id": 1165,
@@ -4128,7 +4128,7 @@
       }
     },
     {
-      "imageUrl": "928_990_B\u00e2ton_Feuillu.png",
+      "imageUrl": "928_990_Baton_Feuillu.png",
       "itemData": {
         "name": "B\u00e2ton Feuillu",
         "generic_item_id": 990,
@@ -4398,7 +4398,7 @@
       }
     },
     {
-      "imageUrl": "573_482_Pass\u00e9_de_X\u00e9lor.png",
+      "imageUrl": "573_482_Passe_de_Xelor.png",
       "itemData": {
         "name": "Pass\u00e9 de X\u00e9lor",
         "generic_item_id": 482,
@@ -4406,7 +4406,7 @@
       }
     },
     {
-      "imageUrl": "94_1164_Puissante_Ep\u00e9e_de_Boisaille.png",
+      "imageUrl": "94_1164_Puissante_Epee_de_Boisaille.png",
       "itemData": {
         "name": "Puissante Ep\u00e9e de Boisaille",
         "generic_item_id": 1164,
@@ -4514,7 +4514,7 @@
       }
     },
     {
-      "imageUrl": "927_991_B\u00e2ton_Kouyu.png",
+      "imageUrl": "927_991_Baton_Kouyu.png",
       "itemData": {
         "name": "B\u00e2ton Kouyu",
         "generic_item_id": 991,
@@ -4587,7 +4587,7 @@
       }
     },
     {
-      "imageUrl": "271_108_Bl\u00e9miche.png",
+      "imageUrl": "271_108_Blemiche.png",
       "itemData": {
         "name": "Bl\u00e9miche",
         "generic_item_id": 108,
@@ -4659,7 +4659,7 @@
       }
     },
     {
-      "imageUrl": "146_249_Craquelocape_L\u00e9gendaire.png",
+      "imageUrl": "146_249_Craquelocape_Legendaire.png",
       "itemData": {
         "name": "Craquelocape L\u00e9gendaire",
         "generic_item_id": 249,
@@ -4673,7 +4673,7 @@
       }
     },
     {
-      "imageUrl": "772_768_Scarature_Dor\u00e9e.png",
+      "imageUrl": "772_768_Scarature_Doree.png",
       "itemData": {
         "name": "Scarature Dor\u00e9e",
         "generic_item_id": 768,
@@ -4756,7 +4756,7 @@
       }
     },
     {
-      "imageUrl": "91_1190_Grande_Ep\u00e9e_dAlle.png",
+      "imageUrl": "91_1190_Grande_Epee_dAlle.png",
       "itemData": {
         "name": "Grande Ep\u00e9e d'Alle",
         "generic_item_id": 1190,
@@ -4821,7 +4821,7 @@
       }
     },
     {
-      "imageUrl": "553_502_Anneau_H\u00e9.png",
+      "imageUrl": "553_502_Anneau_He.png",
       "itemData": {
         "name": "Anneau H\u00e9",
         "generic_item_id": 502,
@@ -4957,7 +4957,7 @@
       }
     },
     {
-      "imageUrl": "82_1220_La_Griffe_Aiguis\u00e9e.png",
+      "imageUrl": "82_1220_La_Griffe_Aiguisee.png",
       "itemData": {
         "name": "La Griffe Aiguis\u00e9e",
         "generic_item_id": 1220,
@@ -5043,7 +5043,7 @@
       }
     },
     {
-      "imageUrl": "267_111_Phal\u00e8ne.png",
+      "imageUrl": "267_111_Phalene.png",
       "itemData": {
         "name": "Phal\u00e8ne",
         "generic_item_id": 111,
@@ -5081,7 +5081,7 @@
       }
     },
     {
-      "imageUrl": "41_1076_Tailladeuse_de_B\u00e2tons_Magiques.png",
+      "imageUrl": "41_1076_Tailladeuse_de_Batons_Magiques.png",
       "itemData": {
         "name": "Tailladeuse de B\u00e2tons Magiques",
         "generic_item_id": 1076,
@@ -5120,7 +5120,7 @@
       }
     },
     {
-      "imageUrl": "163_232_Scaracape_Dor\u00e9e.png",
+      "imageUrl": "163_232_Scaracape_Doree.png",
       "itemData": {
         "name": "Scaracape Dor\u00e9e",
         "generic_item_id": 232,
@@ -5192,7 +5192,7 @@
       }
     },
     {
-      "imageUrl": "400_349_Embl\u00e8me_Livide.png",
+      "imageUrl": "400_349_Embleme_Livide.png",
       "itemData": {
         "name": "Embl\u00e8me Livide",
         "generic_item_id": 349,
@@ -5216,7 +5216,7 @@
       }
     },
     {
-      "imageUrl": "896_1055_Racine_S\u00e9milla.png",
+      "imageUrl": "896_1055_Racine_Semilla.png",
       "itemData": {
         "name": "Racine S\u00e9milla",
         "generic_item_id": 1055,
@@ -5338,7 +5338,7 @@
       }
     },
     {
-      "imageUrl": "904_1040_B\u00e2ton_du_Sandanwa.png",
+      "imageUrl": "904_1040_Baton_du_Sandanwa.png",
       "itemData": {
         "name": "B\u00e2ton du Sandanwa",
         "generic_item_id": 1040,
@@ -5469,7 +5469,7 @@
       }
     },
     {
-      "imageUrl": "921_1009_B\u00e2ton_du_Grand_Pa_Wabbit.png",
+      "imageUrl": "921_1009_Baton_du_Grand_Pa_Wabbit.png",
       "itemData": {
         "name": "B\u00e2ton du Grand Pa Wabbit",
         "generic_item_id": 1009,
@@ -5479,7 +5479,7 @@
       }
     },
     {
-      "imageUrl": "585_464_Mitaines_Mit\u00e9es_du_Paysan.png",
+      "imageUrl": "585_464_Mitaines_Mitees_du_Paysan.png",
       "itemData": {
         "name": "Mitaines Mit\u00e9es du Paysan",
         "generic_item_id": 464,
@@ -5601,7 +5601,7 @@
       }
     },
     {
-      "imageUrl": "243_132_Coiffe_du_Ch\u00eane_Mou.png",
+      "imageUrl": "243_132_Coiffe_du_Chene_Mou.png",
       "itemData": {
         "name": "Coiffe du Ch\u00eane Mou",
         "generic_item_id": 132,
@@ -5678,7 +5678,7 @@
       }
     },
     {
-      "imageUrl": "817_810_X\u00e9nature.png",
+      "imageUrl": "817_810_Xenature.png",
       "itemData": {
         "name": "X\u00e9nature",
         "generic_item_id": 810,
@@ -5693,7 +5693,7 @@
       }
     },
     {
-      "imageUrl": "71_1233_Ep\u00e9e_du_Rat_Blanc.png",
+      "imageUrl": "71_1233_Epee_du_Rat_Blanc.png",
       "itemData": {
         "name": "Ep\u00e9e du Rat Blanc",
         "generic_item_id": 1233,
@@ -5724,7 +5724,7 @@
       }
     },
     {
-      "imageUrl": "895_1056_Le_B\u00e2ton_Cloutay.png",
+      "imageUrl": "895_1056_Le_Baton_Cloutay.png",
       "itemData": {
         "name": "Le B\u00e2ton Cloutay",
         "generic_item_id": 1056,
@@ -5755,7 +5755,7 @@
       }
     },
     {
-      "imageUrl": "459_421_Collier_du_Tanukou\u00ef_San.png",
+      "imageUrl": "459_421_Collier_du_Tanukoui_San.png",
       "itemData": {
         "name": "Collier du Tanukou\u00ef San",
         "generic_item_id": 421,
@@ -5798,7 +5798,7 @@
       }
     },
     {
-      "imageUrl": "72_1233_Ep\u00e9e_du_Rat_Blanc.png",
+      "imageUrl": "72_1233_Epee_du_Rat_Blanc.png",
       "itemData": {
         "name": "Ep\u00e9e du Rat Blanc",
         "generic_item_id": 1233,
@@ -5916,7 +5916,7 @@
       }
     },
     {
-      "imageUrl": "910_1036_B\u00e2ton_du_Wobot.png",
+      "imageUrl": "910_1036_Baton_du_Wobot.png",
       "itemData": {
         "name": "B\u00e2ton du Wobot",
         "generic_item_id": 1036,
@@ -6197,7 +6197,7 @@
       }
     },
     {
-      "imageUrl": "703_684_Bottes_C\u00e9r\u00e9moniales_du_Seigneur_des.png",
+      "imageUrl": "703_684_Bottes_Ceremoniales_du_Seigneur_des.png",
       "itemData": {
         "name": "Bottes C\u00e9r\u00e9moniales du Seigneur des",
         "agilite": "+61",
@@ -6318,7 +6318,7 @@
       }
     },
     {
-      "imageUrl": "872_1073_B\u00e2ton_Champmanique.png",
+      "imageUrl": "872_1073_Baton_Champmanique.png",
       "itemData": {
         "name": "B\u00e2ton Champmanique",
         "generic_item_id": 1073,
@@ -6333,7 +6333,7 @@
       }
     },
     {
-      "imageUrl": "455_417_Collier_C\u00e9r\u00e9monial_du_Seigneur_des_Rats.png",
+      "imageUrl": "455_417_Collier_Ceremonial_du_Seigneur_des_Rats.png",
       "itemData": {
         "name": "Collier C\u00e9r\u00e9monial du Seigneur des Rats",
         "generic_item_id": 417,
@@ -6394,7 +6394,7 @@
       }
     },
     {
-      "imageUrl": "818_810_X\u00e9nature.png",
+      "imageUrl": "818_810_Xenature.png",
       "itemData": {
         "name": "X\u00e9nature",
         "generic_item_id": 810,
@@ -6438,7 +6438,7 @@
       }
     },
     {
-      "imageUrl": "495_562_Anneau_Bliter\u00e9.png",
+      "imageUrl": "495_562_Anneau_Blitere.png",
       "itemData": {
         "name": "Anneau Bliter\u00e9",
         "generic_item_id": 562,
@@ -6483,7 +6483,7 @@
       }
     },
     {
-      "imageUrl": "954_966_Baguette_Irr\u00e9elle.png",
+      "imageUrl": "954_966_Baguette_Irreelle.png",
       "itemData": {
         "name": "Baguette Irr\u00e9elle",
         "generic_item_id": 966,
@@ -6499,7 +6499,7 @@
       }
     },
     {
-      "imageUrl": "124_266_Cape_Us\u00e9e_du_Ch\u00eane_Mou.png",
+      "imageUrl": "124_266_Cape_Usee_du_Chene_Mou.png",
       "itemData": {
         "name": "Cape Us\u00e9e du Ch\u00eane Mou",
         "generic_item_id": 266,
@@ -6662,7 +6662,7 @@
       }
     },
     {
-      "imageUrl": "126_264_Cape_C\u00e9r\u00e9moniale_du_Seigneur_des_Rats.png",
+      "imageUrl": "126_264_Cape_Ceremoniale_du_Seigneur_des_Rats.png",
       "itemData": {
         "name": "Cape C\u00e9r\u00e9moniale du Seigneur des Rats",
         "generic_item_id": 264,
@@ -6736,7 +6736,7 @@
       }
     },
     {
-      "imageUrl": "864_899_Arc_\u00e0_Chon.png",
+      "imageUrl": "864_899_Arc_a_Chon.png",
       "itemData": {
         "name": "Arc \u00e0 Chon",
         "generic_item_id": 899,
@@ -6781,7 +6781,7 @@
       }
     },
     {
-      "imageUrl": "44_1247_Ep\u00e9e_Maudite_du_Saigneur_Guerrier.png",
+      "imageUrl": "44_1247_Epee_Maudite_du_Saigneur_Guerrier.png",
       "itemData": {
         "name": "Ep\u00e9e Maudite du Saigneur Guerrier",
         "generic_item_id": 1247,
@@ -6811,7 +6811,7 @@
       }
     },
     {
-      "imageUrl": "454_417_Collier_C\u00e9r\u00e9monial_du_Seigneur_des_Rats.png",
+      "imageUrl": "454_417_Collier_Ceremonial_du_Seigneur_des_Rats.png",
       "itemData": {
         "name": "Collier C\u00e9r\u00e9monial du Seigneur des Rats",
         "generic_item_id": 417,
@@ -6873,7 +6873,7 @@
       }
     },
     {
-      "imageUrl": "713_691_Bottes_R\u00e9pan\u00e9.png",
+      "imageUrl": "713_691_Bottes_Repane.png",
       "itemData": {
         "name": "Bottes R\u00e9pan\u00e9",
         "generic_item_id": 691,
@@ -6888,7 +6888,7 @@
       }
     },
     {
-      "imageUrl": "916_1029_Grand_B\u00e2ton_des_Rois.png",
+      "imageUrl": "916_1029_Grand_Baton_des_Rois.png",
       "itemData": {
         "name": "Grand B\u00e2ton des Rois",
         "generic_item_id": 1029,
@@ -6994,7 +6994,7 @@
       }
     },
     {
-      "imageUrl": "67_1236_Ep\u00e9e_du_Dragoeuf.png",
+      "imageUrl": "67_1236_Epee_du_Dragoeuf.png",
       "itemData": {
         "name": "Ep\u00e9e du Dragoeuf",
         "generic_item_id": 1236,
@@ -7040,7 +7040,7 @@
       }
     },
     {
-      "imageUrl": "22_1148_Dague_R\u00e9gah.png",
+      "imageUrl": "22_1148_Dague_Regah.png",
       "itemData": {
         "name": "Dague R\u00e9gah",
         "generic_item_id": 1148,
@@ -7089,7 +7089,7 @@
       }
     },
     {
-      "imageUrl": "885_1063_B\u00e2ton_du_Dragoeuf.png",
+      "imageUrl": "885_1063_Baton_du_Dragoeuf.png",
       "itemData": {
         "name": "B\u00e2ton du Dragoeuf",
         "generic_item_id": 1063,
@@ -7104,7 +7104,7 @@
       }
     },
     {
-      "imageUrl": "905_1041_B\u00e2ton_de_Shika.png",
+      "imageUrl": "905_1041_Baton_de_Shika.png",
       "itemData": {
         "name": "B\u00e2ton de Shika",
         "generic_item_id": 1041,
@@ -7166,7 +7166,7 @@
       }
     },
     {
-      "imageUrl": "863_899_Arc_\u00e0_Chon.png",
+      "imageUrl": "863_899_Arc_a_Chon.png",
       "itemData": {
         "name": "Arc \u00e0 Chon",
         "generic_item_id": 899,
@@ -7197,7 +7197,7 @@
       }
     },
     {
-      "imageUrl": "43_1247_Ep\u00e9e_Maudite_du_Saigneur_Guerrier.png",
+      "imageUrl": "43_1247_Epee_Maudite_du_Saigneur_Guerrier.png",
       "itemData": {
         "name": "Ep\u00e9e Maudite du Saigneur Guerrier",
         "generic_item_id": 1247,
@@ -7247,7 +7247,7 @@
       }
     },
     {
-      "imageUrl": "876_1070_B\u00e2ton_du_Ma\u00eetre_Zoth.png",
+      "imageUrl": "876_1070_Baton_du_Maitre_Zoth.png",
       "itemData": {
         "name": "B\u00e2ton du Ma\u00eetre Zoth",
         "generic_item_id": 1070,
@@ -7327,7 +7327,7 @@
       }
     },
     {
-      "imageUrl": "1_1160_Couteaux_\u00e0_Champignons.png",
+      "imageUrl": "1_1160_Couteaux_a_Champignons.png",
       "itemData": {
         "name": "Couteaux \u00e0 Champignons",
         "generic_item_id": 1160,
@@ -7374,7 +7374,7 @@
       }
     },
     {
-      "imageUrl": "66_1236_Ep\u00e9e_du_Dragoeuf.png",
+      "imageUrl": "66_1236_Epee_du_Dragoeuf.png",
       "itemData": {
         "name": "Ep\u00e9e du Dragoeuf",
         "generic_item_id": 1236,
@@ -7435,7 +7435,7 @@
       }
     },
     {
-      "imageUrl": "881_1066_Racine_de_F\u00e9corce.png",
+      "imageUrl": "881_1066_Racine_de_Fecorce.png",
       "itemData": {
         "name": "Racine de F\u00e9corce",
         "generic_item_id": 1066,
@@ -7532,7 +7532,7 @@
       }
     },
     {
-      "imageUrl": "822_813_Ceinture_C\u00e9r\u00e9moniale_du_Seigneur_des....png",
+      "imageUrl": "822_813_Ceinture_Ceremoniale_du_Seigneur_des....png",
       "itemData": {
         "name": "Ceinture C\u00e9r\u00e9moniale du Seigneur des Rats",
         "generic_item_id": 813,
@@ -7595,7 +7595,7 @@
       }
     },
     {
-      "imageUrl": "898_1053_Racine_H\u00e9couanone.png",
+      "imageUrl": "898_1053_Racine_Hecouanone.png",
       "itemData": {
         "name": "Racine H\u00e9couanone",
         "generic_item_id": 1053,
@@ -7681,7 +7681,7 @@
       }
     },
     {
-      "imageUrl": "285_98_Casque_de_Ma\u00eetre_Nabur.png",
+      "imageUrl": "285_98_Casque_de_Maitre_Nabur.png",
       "itemData": {
         "name": "Casque de Ma\u00eetre Nabur",
         "generic_item_id": 98,
@@ -7900,7 +7900,7 @@
       }
     },
     {
-      "imageUrl": "937_982_Baguette_du_Ch\u00eane_Mou.png",
+      "imageUrl": "937_982_Baguette_du_Chene_Mou.png",
       "itemData": {
         "name": "Baguette du Ch\u00eane Mou",
         "generic_item_id": 982,
@@ -8004,7 +8004,7 @@
       }
     },
     {
-      "imageUrl": "491_564_Alliance_Bolet\u00e9e.png",
+      "imageUrl": "491_564_Alliance_Boletee.png",
       "itemData": {
         "name": "Alliance Bolet\u00e9e",
         "generic_item_id": 564,
@@ -8182,7 +8182,7 @@
       }
     },
     {
-      "imageUrl": "915_1029_Grand_B\u00e2ton_des_Rois.png",
+      "imageUrl": "915_1029_Grand_Baton_des_Rois.png",
       "itemData": {
         "name": "Grand B\u00e2ton des Rois",
         "generic_item_id": 1029,
@@ -8198,7 +8198,7 @@
       }
     },
     {
-      "imageUrl": "492_564_Alliance_Bolet\u00e9e.png",
+      "imageUrl": "492_564_Alliance_Boletee.png",
       "itemData": {
         "name": "Alliance Bolet\u00e9e",
         "generic_item_id": 564,
@@ -8259,7 +8259,7 @@
       }
     },
     {
-      "imageUrl": "871_1073_B\u00e2ton_Champmanique.png",
+      "imageUrl": "871_1073_Baton_Champmanique.png",
       "itemData": {
         "name": "B\u00e2ton Champmanique",
         "generic_item_id": 1073,
@@ -8308,7 +8308,7 @@
       }
     },
     {
-      "imageUrl": "458_414_M\u00e9daille_Kido.png",
+      "imageUrl": "458_414_Medaille_Kido.png",
       "itemData": {
         "name": "M\u00e9daille Kido",
         "generic_item_id": 414,
@@ -8390,7 +8390,7 @@
       }
     },
     {
-      "imageUrl": "897_1054_Racine_H\u00e9cure.png",
+      "imageUrl": "897_1054_Racine_Hecure.png",
       "itemData": {
         "name": "Racine H\u00e9cure",
         "generic_item_id": 1054,
@@ -8508,7 +8508,7 @@
       }
     },
     {
-      "imageUrl": "679_668_Bottes_Du_Craqueleur_L\u00e9gendaire.png",
+      "imageUrl": "679_668_Bottes_Du_Craqueleur_Legendaire.png",
       "itemData": {
         "name": "Bottes Du Craqueleur L\u00e9gendaire",
         "generic_item_id": 668,
@@ -8576,7 +8576,7 @@
       }
     },
     {
-      "imageUrl": "30_1135_Dagues_Ruy\u00e8re.png",
+      "imageUrl": "30_1135_Dagues_Ruyere.png",
       "itemData": {
         "name": "Dagues Ruy\u00e8re",
         "generic_item_id": 1135,
@@ -8600,7 +8600,7 @@
       }
     },
     {
-      "imageUrl": "936_982_Baguette_du_Ch\u00eane_Mou.png",
+      "imageUrl": "936_982_Baguette_du_Chene_Mou.png",
       "itemData": {
         "name": "Baguette du Ch\u00eane Mou",
         "generic_item_id": 982,
@@ -8640,7 +8640,7 @@
       }
     },
     {
-      "imageUrl": "68_1235_Ep\u00e9e_du_Dark_Vlad.png",
+      "imageUrl": "68_1235_Epee_du_Dark_Vlad.png",
       "itemData": {
         "name": "Ep\u00e9e du Dark Vlad",
         "generic_item_id": 1235,
@@ -8683,7 +8683,7 @@
       }
     },
     {
-      "imageUrl": "830_820_Ceinture_Tor\u00e9.png",
+      "imageUrl": "830_820_Ceinture_Tore.png",
       "itemData": {
         "name": "Ceinture Tor\u00e9",
         "generic_item_id": 820,
@@ -8806,7 +8806,7 @@
       }
     },
     {
-      "imageUrl": "418_377_Amulette_de_X\u00e9lor.png",
+      "imageUrl": "418_377_Amulette_de_Xelor.png",
       "itemData": {
         "name": "Amulette de X\u00e9lor",
         "generic_item_id": 377,
@@ -8978,7 +8978,7 @@
       }
     },
     {
-      "imageUrl": "922_1007_Grand_b\u00e2ton_de_fausse_magie.png",
+      "imageUrl": "922_1007_Grand_baton_de_fausse_magie.png",
       "itemData": {
         "name": "Grand b\u00e2ton de fausse magie",
         "generic_item_id": 1007,
@@ -9036,7 +9036,7 @@
       }
     },
     {
-      "imageUrl": "707_685_Tongues_du_dimanche_du_Ch\u00eane_Mou.png",
+      "imageUrl": "707_685_Tongues_du_dimanche_du_Chene_Mou.png",
       "itemData": {
         "name": "Tongues du dimanche du Ch\u00eane Mou",
         "generic_item_id": 685,
@@ -9107,7 +9107,7 @@
       }
     },
     {
-      "imageUrl": "35_1123_Dagues_AjDehL\u00e0.png",
+      "imageUrl": "35_1123_Dagues_AjDehLa.png",
       "itemData": {
         "name": "Dagues Aj'Deh'L\u00e0",
         "generic_item_id": 1123,
@@ -9148,7 +9148,7 @@
       }
     },
     {
-      "imageUrl": "54_1243_L\u00c9p\u00e9e_Nice.png",
+      "imageUrl": "54_1243_LEpee_Nice.png",
       "itemData": {
         "name": "L'\u00c9p\u00e9e Nice",
         "generic_item_id": 1243,
@@ -9232,7 +9232,7 @@
       }
     },
     {
-      "imageUrl": "959_958_Bagdette_Caf\u00e9.png",
+      "imageUrl": "959_958_Bagdette_Cafe.png",
       "itemData": {
         "name": "Bagdette Caf\u00e9",
         "generic_item_id": 958,
@@ -9313,7 +9313,7 @@
       }
     },
     {
-      "imageUrl": "995_1406_Pelle_H\u00e9buse.png",
+      "imageUrl": "995_1406_Pelle_Hebuse.png",
       "itemData": {
         "name": "Pelle H\u00e9buse",
         "generic_item_id": 1406,
@@ -9354,7 +9354,7 @@
       }
     },
     {
-      "imageUrl": "963_949_Le_Tison_F\u00fbt\u00e9.png",
+      "imageUrl": "963_949_Le_Tison_Fute.png",
       "itemData": {
         "name": "Le Tison F\u00fbt\u00e9",
         "generic_item_id": 949,
@@ -9414,7 +9414,7 @@
       }
     },
     {
-      "imageUrl": "210_153_Couvre-chef_corn\u00e9_de_QuTan.png",
+      "imageUrl": "210_153_Couvre-chef_corne_de_QuTan.png",
       "itemData": {
         "name": "Couvre-chef corn\u00e9 de Qu'Tan",
         "generic_item_id": 153,
@@ -9429,7 +9429,7 @@
       }
     },
     {
-      "imageUrl": "990_1411_Pelle_\u00e0_G\u00e2teau.png",
+      "imageUrl": "990_1411_Pelle_a_Gateau.png",
       "itemData": {
         "name": "Pelle \u00e0 G\u00e2teau",
         "generic_item_id": 1411,
@@ -9443,7 +9443,7 @@
       }
     },
     {
-      "imageUrl": "890_1060_B\u00e2ton_de_Sangroku.png",
+      "imageUrl": "890_1060_Baton_de_Sangroku.png",
       "itemData": {
         "name": "B\u00e2ton de Sangroku",
         "generic_item_id": 1060,
@@ -9460,7 +9460,7 @@
       }
     },
     {
-      "imageUrl": "247_125_Coiffe_C\u00e9r\u00e9moniale_du_Seigneur_des_Rats.png",
+      "imageUrl": "247_125_Coiffe_Ceremoniale_du_Seigneur_des_Rats.png",
       "itemData": {
         "name": "Coiffe C\u00e9r\u00e9moniale du Seigneur des Rat:",
         "generic_item_id": 125,
@@ -9584,7 +9584,7 @@
       }
     },
     {
-      "imageUrl": "242_132_Coiffe_du_Ch\u00eane_Mou.png",
+      "imageUrl": "242_132_Coiffe_du_Chene_Mou.png",
       "itemData": {
         "name": "Coiffe du Ch\u00eane Mou",
         "generic_item_id": 132,
@@ -9695,7 +9695,7 @@
       }
     },
     {
-      "imageUrl": "912_1034_B\u00e2ton_du_Bwork_Mage.png",
+      "imageUrl": "912_1034_Baton_du_Bwork_Mage.png",
       "itemData": {
         "name": "B\u00e2ton du Bwork Mage",
         "generic_item_id": 1034,
@@ -9819,7 +9819,7 @@
       }
     },
     {
-      "imageUrl": "850_878_Arc_du_P\u00eacheur.png",
+      "imageUrl": "850_878_Arc_du_Pecheur.png",
       "itemData": {
         "name": "Arc du P\u00eacheur",
         "generic_item_id": 878,
@@ -9833,7 +9833,7 @@
       }
     },
     {
-      "imageUrl": "908_1038_B\u00e2ton_du_Nidanwa.png",
+      "imageUrl": "908_1038_Baton_du_Nidanwa.png",
       "itemData": {
         "name": "B\u00e2ton du Nidanwa",
         "generic_item_id": 1038,
@@ -10076,7 +10076,7 @@
       }
     },
     {
-      "imageUrl": "49_1245_Ep\u00e9e_Lopon\u00e8ze.png",
+      "imageUrl": "49_1245_Epee_Loponeze.png",
       "itemData": {
         "name": "Ep\u00e9e Lopon\u00e8ze",
         "generic_item_id": 1245,
@@ -10123,7 +10123,7 @@
       }
     },
     {
-      "imageUrl": "964_950_Baguette_du_Scarabosse_Dor\u00e9.png",
+      "imageUrl": "964_950_Baguette_du_Scarabosse_Dore.png",
       "itemData": {
         "name": "Baguette du Scarabosse Dor\u00e9",
         "generic_item_id": 950,
@@ -10255,7 +10255,7 @@
       }
     },
     {
-      "imageUrl": "909_1037_Excellent_B\u00e2ton_des_Rois.png",
+      "imageUrl": "909_1037_Excellent_Baton_des_Rois.png",
       "itemData": {
         "name": "Excellent B\u00e2ton des Rois",
         "generic_item_id": 1037,
@@ -10271,7 +10271,7 @@
       }
     },
     {
-      "imageUrl": "894_1057_B\u00e2ton_de_Marie_Aigue.png",
+      "imageUrl": "894_1057_Baton_de_Marie_Aigue.png",
       "itemData": {
         "name": "B\u00e2ton de Marie Aigue",
         "generic_item_id": 1057,
@@ -10317,7 +10317,7 @@
       }
     },
     {
-      "imageUrl": "500_557_Anneau_C\u00e9r\u00e9monial_du_Seigneur_des_R....png",
+      "imageUrl": "500_557_Anneau_Ceremonial_du_Seigneur_des_R....png",
       "itemData": {
         "name": "Anneau C\u00e9r\u00e9monial du Seigneur des Rats",
         "generic_item_id": 557,
@@ -10376,7 +10376,7 @@
       }
     },
     {
-      "imageUrl": "236_138_Coiffe_du_Ma\u00eetre_Zoth.png",
+      "imageUrl": "236_138_Coiffe_du_Maitre_Zoth.png",
       "itemData": {
         "name": "Coiffe du Ma\u00eetre Zoth",
         "generic_item_id": 138,
@@ -10515,7 +10515,7 @@
       }
     },
     {
-      "imageUrl": "981_1416_Pelle_Em\u00e9laka.png",
+      "imageUrl": "981_1416_Pelle_Emelaka.png",
       "itemData": {
         "name": "Pelle Em\u00e9laka",
         "generic_item_id": 1416,
@@ -10532,7 +10532,7 @@
       }
     },
     {
-      "imageUrl": "14_1153_Dagues_R\u00e9ceuses.png",
+      "imageUrl": "14_1153_Dagues_Receuses.png",
       "itemData": {
         "name": "Dagues R\u00e9ceuses",
         "generic_item_id": 1153,
@@ -10621,7 +10621,7 @@
       }
     },
     {
-      "imageUrl": "64_1237_Glaive_Ic\u00e9ration.png",
+      "imageUrl": "64_1237_Glaive_Iceration.png",
       "itemData": {
         "name": "Glaive Ic\u00e9ration",
         "generic_item_id": 1237,
@@ -10687,7 +10687,7 @@
       }
     },
     {
-      "imageUrl": "829_820_Ceinture_Tor\u00e9.png",
+      "imageUrl": "829_820_Ceinture_Tore.png",
       "itemData": {
         "name": "Ceinture Tor\u00e9",
         "generic_item_id": 820,
@@ -10777,7 +10777,7 @@
       }
     },
     {
-      "imageUrl": "714_691_Bottes_R\u00e9pan\u00e9.png",
+      "imageUrl": "714_691_Bottes_Repane.png",
       "itemData": {
         "name": "Bottes R\u00e9pan\u00e9",
         "generic_item_id": 691,
@@ -10807,7 +10807,7 @@
       }
     },
     {
-      "imageUrl": "53_1243_L\u00c9p\u00e9e_Nice.png",
+      "imageUrl": "53_1243_LEpee_Nice.png",
       "itemData": {
         "name": "L'\u00c9p\u00e9e Nice",
         "generic_item_id": 1243,
@@ -10823,7 +10823,7 @@
       }
     },
     {
-      "imageUrl": "65_1237_Glaive_Ic\u00e9ration.png",
+      "imageUrl": "65_1237_Glaive_Iceration.png",
       "itemData": {
         "name": "Glaive Ic\u00e9ration",
         "generic_item_id": 1237,
@@ -10866,7 +10866,7 @@
       }
     },
     {
-      "imageUrl": "900_1050_B\u00e2ton_du_Yondanwa.png",
+      "imageUrl": "900_1050_Baton_du_Yondanwa.png",
       "itemData": {
         "name": "B\u00e2ton du Yondanwa",
         "generic_item_id": 1050,
@@ -10911,7 +10911,7 @@
       }
     },
     {
-      "imageUrl": "462_419_Talisman_du_Ch\u00eane_Mou.png",
+      "imageUrl": "462_419_Talisman_du_Chene_Mou.png",
       "itemData": {
         "name": "Talisman du Ch\u00eane Mou",
         "generic_item_id": 419,
@@ -11043,7 +11043,7 @@
       }
     },
     {
-      "imageUrl": "836_824_Ceinture_\u00e0_plumes.png",
+      "imageUrl": "836_824_Ceinture_a_plumes.png",
       "itemData": {
         "name": "Ceinture \u00e0 plumes",
         "generic_item_id": 824,
@@ -11088,7 +11088,7 @@
       }
     },
     {
-      "imageUrl": "15_1153_Dagues_R\u00e9ceuses.png",
+      "imageUrl": "15_1153_Dagues_Receuses.png",
       "itemData": {
         "name": "Dagues R\u00e9ceuses",
         "generic_item_id": 1153,
@@ -11134,7 +11134,7 @@
       }
     },
     {
-      "imageUrl": "715_692_Bottes_QuTan\u00e9es.png",
+      "imageUrl": "715_692_Bottes_QuTanees.png",
       "itemData": {
         "name": "Bottes Qu'Tan\u00e9es",
         "generic_item_id": 692,
@@ -11149,7 +11149,7 @@
       }
     },
     {
-      "imageUrl": "69_1235_Ep\u00e9e_du_Dark_Vlad.png",
+      "imageUrl": "69_1235_Epee_du_Dark_Vlad.png",
       "itemData": {
         "name": "Ep\u00e9e du Dark Vlad",
         "generic_item_id": 1235,
@@ -11356,7 +11356,7 @@
       }
     },
     {
-      "imageUrl": "55_1242_LEp\u00e9e_Rilleuse.png",
+      "imageUrl": "55_1242_LEpee_Rilleuse.png",
       "itemData": {
         "name": "L'Ep\u00e9e Rilleuse",
         "generic_item_id": 1242,
@@ -11502,7 +11502,7 @@
       }
     },
     {
-      "imageUrl": "989_1411_Pelle_\u00e0_G\u00e2teau.png",
+      "imageUrl": "989_1411_Pelle_a_Gateau.png",
       "itemData": {
         "name": "Pelle \u00e0 G\u00e2teau",
         "generic_item_id": 1411,
@@ -11700,7 +11700,7 @@
       }
     },
     {
-      "imageUrl": "281_101_Billr\u00e9ole.png",
+      "imageUrl": "281_101_Billreole.png",
       "itemData": {
         "name": "Billr\u00e9ole",
         "generic_item_id": 101,
@@ -11744,7 +11744,7 @@
       }
     },
     {
-      "imageUrl": "105_1468_Hache_Harn\u00e9e.png",
+      "imageUrl": "105_1468_Hache_Harnee.png",
       "itemData": {
         "name": "Hache Harn\u00e9e",
         "generic_item_id": 1468,
@@ -11774,7 +11774,7 @@
       }
     },
     {
-      "imageUrl": "837_824_Ceinture_\u00e0_plumes.png",
+      "imageUrl": "837_824_Ceinture_a_plumes.png",
       "itemData": {
         "name": "Ceinture \u00e0 plumes",
         "generic_item_id": 824,
@@ -11845,7 +11845,7 @@
       }
     },
     {
-      "imageUrl": "118_272_Cape_Erfor\u00e9e.png",
+      "imageUrl": "118_272_Cape_Erforee.png",
       "itemData": {
         "name": "Cape Erfor\u00e9e",
         "generic_item_id": 272,
@@ -11860,7 +11860,7 @@
       }
     },
     {
-      "imageUrl": "702_684_Bottes_C\u00e9r\u00e9moniales_du_Seigneur_des.png",
+      "imageUrl": "702_684_Bottes_Ceremoniales_du_Seigneur_des.png",
       "itemData": {
         "name": "Bottes C\u00e9r\u00e9moniales du Seigneur des Rats",
         "generic_item_id": 684,
@@ -11875,7 +11875,7 @@
       }
     },
     {
-      "imageUrl": "437_399_Amulette_du_Craqueleur_L\u00e9gendaire.png",
+      "imageUrl": "437_399_Amulette_du_Craqueleur_Legendaire.png",
       "itemData": {
         "name": "Amulette du Craqueleur L\u00e9gendaire",
         "generic_item_id": 399,
@@ -12013,7 +12013,7 @@
       }
     },
     {
-      "imageUrl": "821_813_Ceinture_C\u00e9r\u00e9moniale_du_Seigneur_des....png",
+      "imageUrl": "821_813_Ceinture_Ceremoniale_du_Seigneur_des....png",
       "itemData": {
         "name": "Ceinture C\u00e9r\u00e9moniale du Seigneur des...",
         "generic_item_id": 813,
@@ -12043,7 +12043,7 @@
       }
     },
     {
-      "imageUrl": "983_1415_la_B\u00eache_\u00e0_Mel.png",
+      "imageUrl": "983_1415_la_Beche_a_Mel.png",
       "itemData": {
         "name": "la B\u00eache \u00e0 Mel",
         "generic_item_id": 1415,
@@ -12105,7 +12105,7 @@
       }
     },
     {
-      "imageUrl": "691_676_Prot\u00e8ge-Tibias_Ancestraux.png",
+      "imageUrl": "691_676_Protege-Tibias_Ancestraux.png",
       "itemData": {
         "name": "Prot\u00e8ge-Tibias Ancestraux",
         "generic_item_id": 676,
@@ -12120,7 +12120,7 @@
       }
     },
     {
-      "imageUrl": "997_1398_Pelle_Minst\u00e8re.png",
+      "imageUrl": "997_1398_Pelle_Minstere.png",
       "itemData": {
         "name": "Pelle Minst\u00e8re",
         "generic_item_id": 1398,
@@ -12172,7 +12172,7 @@
       }
     },
     {
-      "imageUrl": "793_793_Ceinture_du_Craqueleur_L\u00e9gendaire.png",
+      "imageUrl": "793_793_Ceinture_du_Craqueleur_Legendaire.png",
       "itemData": {
         "name": "Ceinture du Craqueleur L\u00e9gendaire",
         "generic_item_id": 793,
@@ -12186,7 +12186,7 @@
       }
     },
     {
-      "imageUrl": "823_814_String_Automnal_du_Ch\u00eane_Mou.png",
+      "imageUrl": "823_814_String_Automnal_du_Chene_Mou.png",
       "itemData": {
         "name": "String Automnal du Ch\u00eane Mou",
         "generic_item_id": 814,
@@ -12244,7 +12244,7 @@
       }
     },
     {
-      "imageUrl": "982_1415_la_B\u00eache_\u00e0_Mel.png",
+      "imageUrl": "982_1415_la_Beche_a_Mel.png",
       "itemData": {
         "name": "la B\u00eache \u00e0 Mel",
         "generic_item_id": 1415,
@@ -12293,7 +12293,7 @@
       }
     },
     {
-      "imageUrl": "293_93_Casque_du_Craqueleur_L\u00e9gendaire.png",
+      "imageUrl": "293_93_Casque_du_Craqueleur_Legendaire.png",
       "itemData": {
         "name": "Casque du Craqueleur L\u00e9gendaire",
         "generic_item_id": 93,
@@ -12308,7 +12308,7 @@
       }
     },
     {
-      "imageUrl": "891_1060_B\u00e2ton_de_Sangroku.png",
+      "imageUrl": "891_1060_Baton_de_Sangroku.png",
       "itemData": {
         "name": "B\u00e2ton de Sangroku",
         "generic_item_id": 1060,
@@ -12323,7 +12323,7 @@
       }
     },
     {
-      "imageUrl": "706_685_Tongues_du_dimanche_du_Ch\u00eane_Mou.png",
+      "imageUrl": "706_685_Tongues_du_dimanche_du_Chene_Mou.png",
       "itemData": {
         "name": "Tongues du dimanche du Ch\u00eane Mou",
         "generic_item_id": 685,
