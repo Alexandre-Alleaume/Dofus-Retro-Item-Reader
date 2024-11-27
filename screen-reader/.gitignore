@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+training/output/
+.DS_Store
+
+# Virtual Environment
+myvenv/
+
+# Model Weights and Training Artifacts
+training/trocr-finetuned/
