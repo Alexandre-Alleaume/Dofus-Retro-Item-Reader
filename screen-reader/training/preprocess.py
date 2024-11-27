@@ -25,8 +25,9 @@ def create_dataloader(dataset, processor, image_dir, batch_size=8, shuffle=True)
 if __name__ == "__main__":
     # Load processor and dataset
     processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-printed")
-    dataset_path = "dataset/dataset.json"  # Path to your JSON file
-    image_dir = "dataset/images"  # Path to the directory with images
+    dataset_path = "/kaggle/input/dofus-item-images-json/dataset.json"
+    image_dir = "/kaggle/input/dofus-item-images"
+
 
     # Load the dataset
     dataset = load_dataset(dataset_path)

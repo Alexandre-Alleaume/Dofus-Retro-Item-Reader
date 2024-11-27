@@ -18,7 +18,7 @@ class ItemDataset(Dataset):
     def __getitem__(self, idx):
         # Get data entry at the specified index
         item = self.data[idx]
-        image_path = os.path.join(self.image_dir, os.path.basename(item["imageUrl"]))
+        image_path = os.path.join(self.image_dir, item["imageUrl"])
         
         # Open the image
         image = Image.open(image_path).convert("RGB")

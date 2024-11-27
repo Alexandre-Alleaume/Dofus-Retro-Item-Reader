@@ -1,6 +1,8 @@
 # model_setup.py
 
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel
+TrOCRProcessor.from_pretrained("microsoft/trocr-base-printed").save_pretrained("/kaggle/working/trocr-processor")
+VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-printed").save_pretrained("/kaggle/working/trocr-model")
 
 def load_model():
     # Load the pre-trained processor and model for printed text

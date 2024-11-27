@@ -10,15 +10,18 @@ import os
 
 def main():
     # Set paths and hyperparameters
-    dataset_path = "dataset/dataset.json"  # JSON data file
-    image_dir = "dataset/images"  # Image folder
-    output_dir = "training/output"  # Model output directory
+    dataset_path = "/kaggle/input/dofus-item-images-json/dataset.json"  # JSON data file
+    image_dir = "/kaggle/input/dofus-item-images"  # Image folder
+    output_dir = "/kaggle/working/output"
     batch_size = 8
     num_epochs = 10
     learning_rate = 3e-5
 
     # Load dataset and model
     processor, model = load_model()
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.to(device)  # Move the model to GPU or keep it on CPU
+    
     dataset = load_dataset(dataset_path)
 
     # Get the list of data entries (not the whole dataset dictionary)
