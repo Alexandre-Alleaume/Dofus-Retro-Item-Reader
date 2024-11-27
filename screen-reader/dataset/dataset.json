@@ -10717,21 +10717,6 @@
       }
     },
     {
-      "imageUrl": "dataset/images/422_381_Amulette_\"Dents_de_Wabbits\".png",
-      "itemData": {
-        "name": "Amulette \"Dents de Wabbits\"",
-        "generic_item_id": 381,
-        "port\u00e9e": "+1",
-        "initiative": "+191",
-        "vitalite": "+27",
-        "chance": "+28",
-        "force": "+25",
-        "agilite": "+29",
-        "dommage_pourcent": "5",
-        "invo": "+1"
-      }
-    },
-    {
       "imageUrl": "dataset/images/942_979_Branche_de_lAbrakleur_clair.png",
       "itemData": {
         "name": "Branche de l'Abrakleur clair",
