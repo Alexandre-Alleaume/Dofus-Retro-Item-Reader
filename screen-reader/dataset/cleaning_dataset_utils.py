@@ -9,33 +9,36 @@ with open(file_path, 'r') as file:
 
 # Modify the imageUrl fields
 for item in json_data['data']:
-    if 'imageUrl' in item:
-        item['imageUrl'] = item['imageUrl'].replace("\u00ef", "i")
+    # if 'imageUrl' in item:
+    #     item['imageUrl'] = item['imageUrl'].replace("\u00ef", "i")
+    item["itemData"].pop("generic_item_id", None)
+
+
 
 # Save the updated JSON data back to the file
 with open(file_path, 'w') as file:
     json.dump(json_data, file, indent=2)
 
-import os
+# import os
 
-# Path to the images folder
-images_folder = "images"
+# # Path to the images folder
+# images_folder = "images"
 
-# Iterate over all files in the images folder
-for filename in os.listdir(images_folder):
-    # Construct the full file path
-    old_file_path = os.path.join(images_folder, filename)
+# # Iterate over all files in the images folder
+# for filename in os.listdir(images_folder):
+#     # Construct the full file path
+#     old_file_path = os.path.join(images_folder, filename)
     
-    # Skip directories (if any)
-    if not os.path.isfile(old_file_path):
-        continue
+#     # Skip directories (if any)
+#     if not os.path.isfile(old_file_path):
+#         continue
     
-    # Remove single quotes from the filename
-    new_filename = filename.replace("ï", "i")
-    new_file_path = os.path.join(images_folder, new_filename)
+#     # Remove single quotes from the filename
+#     new_filename = filename.replace("ï", "i")
+#     new_file_path = os.path.join(images_folder, new_filename)
     
-    # Rename the file
-    os.rename(old_file_path, new_file_path)
-    print(f"Renamed: {filename} -> {new_filename}")
+#     # Rename the file
+#     os.rename(old_file_path, new_file_path)
+#     print(f"Renamed: {filename} -> {new_filename}")
 
-print("File renaming completed!")
+# print("File renaming completed!")
